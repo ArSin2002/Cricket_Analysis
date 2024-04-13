@@ -4,19 +4,19 @@ Welcome to the Cricket Analysis Dashboard! This Power BI dashboard provides comp
 The Cricket Analysis Dashboard is a powerful tool designed to analyze cricket data effectively. It offers a user-friendly interface with intuitive visualizations to explore different facets of cricket matches and player performances. The dashboard uses data and presents it in an interactive format, allowing users to delve deep into the statistics and trends.
 ## Features
 1. Player Insights
--Explore individual player statistics, such as runs scored, wickets taken, strike rates, etc.
--Compare player performances across matches and formats (Test, ODI, T20).
--Identify key players based on their contributions to the team.
+- Explore individual player statistics, such as runs scored, wickets taken, strike rates, etc.
+- Compare player performances across matches and formats (Test, ODI, T20).
+- Identify key players based on their contributions to the team.
 
 2. Team Performance
--Evaluate team performance over time using trend analysis.
--Analyze win-loss ratios, run rates, and other team metrics.
--Identify strengths and weaknesses of teams based on historical data.
+- Evaluate team performance over time using trend analysis.
+- Analyze win-loss ratios, run rates, and other team metrics.
+- Identify strengths and weaknesses of teams based on historical data.
 
 3. : Interactive Visualizations
--Use interactive charts, graphs, and maps to visualize data.
--Drill down into specific details by applying filters and slicers.
--Customize views and save personalized dashboards for future reference.
+- Use interactive charts, graphs, and maps to visualize data.
+- Drill down into specific details by applying filters and slicers.
+- Customize views and save personalized dashboards for future reference.
 
 ## Installation
 To access the Cricket Analysis Dashboard:
